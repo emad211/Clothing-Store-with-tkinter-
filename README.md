@@ -16,23 +16,19 @@
 
 ### نصب و راه‌اندازی
 
-1. ابتدا مخزن را کلون کنید:
-   ```bash
-   git clone https://github.com/username/clothing-store.git
-   cd clothing-store
-   ```
+  
 
-2. کتابخانه‌های مورد نیاز را نصب کنید:
+1. کتابخانه‌های مورد نیاز را نصب کنید:
    ```bash
    pip install pillow
    ```
 
-3. فایل `database.py` را برای ایجاد پایگاه داده اجرا کنید:
+2. فایل `database.py` را برای ایجاد پایگاه داده اجرا کنید:
    ```bash
    python database.py
    ```
 
-4. برنامه اصلی را اجرا کنید:
+3. برنامه اصلی را اجرا کنید:
    ```bash
    python app.py
    ```
@@ -65,23 +61,19 @@ This project is a simple clothing store management application built with Python
 
 ### Installation and Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/clothing-store.git
-   cd clothing-store
-   ```
 
-2. Install the required libraries:
+
+1. Install the required libraries:
    ```bash
    pip install pillow
    ```
 
-3. Run the `database.py` file to create the database:
+2. Run the `database.py` file to create the database:
    ```bash
    python database.py
    ```
 
-4. Run the main application:
+3. Run the main application:
    ```bash
    python app.py
    ```
@@ -98,5 +90,3 @@ This project is a simple clothing store management application built with Python
 - SQLite
 - Pillow
 ```
-
-این متن را می‌توانید به فایل `README.md` خود اضافه کنید و در ریشه مخزن گیت‌هاب خود قرار دهید. با این کار، کاربران می‌توانند اطلاعات لازم برای نصب و راه‌اندازی پروژه شما را به راحتی پیدا کنند.
